@@ -1,6 +1,6 @@
 $(document).ready(function() {
 	$("#whyhello").click(function(){
-		$("#introduction").hide();
+		$("#Janice").hide();
 	});
 	$("#whyhello").click(function(){
 		$("#whyhello").hide();
